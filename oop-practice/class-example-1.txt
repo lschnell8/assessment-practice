@@ -1,0 +1,13 @@
+class Class
+
+Attributes
+subjects (array)
+classLength (integer)
+isInSession (boolean)
+teacherName (string)
+
+Methods
+addElective (adds a subject to subjects array)
+earlyRelease (decreases classLength)
+notInSession (updates isInSession to false)
+subTeacher (changes teacherName)
