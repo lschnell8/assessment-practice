@@ -1,0 +1,13 @@
+class Student
+
+Attributes
+isTall (boolean)
+name (string)
+height (integer)
+interests (array)
+
+Methods
+notTall (updates isTall to false)
+middleName (updates name attribute)
+grow (increases height attribute)
+addInterests (adds one interest to the interests array)
